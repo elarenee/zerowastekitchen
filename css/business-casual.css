@@ -177,6 +177,7 @@ footer p {
 
     .navbar-default .navbar-nav>li>a {
         color: #FFF;
+        font-size: 0.9em;
     }
     .navbar-nav {
         display: table;
